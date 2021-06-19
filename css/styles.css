@@ -2884,11 +2884,11 @@ fieldset:disabled a.btn {
 
 .btn-link {
   font-weight: 400;
-  color: #bd5d38;
+  color: #28a745;
   text-decoration: none;
 }
 .btn-link:hover {
-  color: #824027;
+  color: #28a745;
   text-decoration: underline;
 }
 .btn-link:focus, .btn-link.focus {
@@ -10109,7 +10109,7 @@ p.lead {
   margin-right: 0;
 }
 .social-icons .social-icon:hover {
-  background-color: #bd5d38;
+  background-color: #28a745;
 }
 
 .dev-icons {
